@@ -27,7 +27,7 @@ def clean_model_response(response):
 
 
 
-llm = OpenAI(max_tokens=-1,api_key='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')
+llm = OpenAI(max_tokens=-1,api_key='')
 
 memory = ConversationBufferMemory()
 
