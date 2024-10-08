@@ -1,0 +1,7 @@
+Django==5.0.1
+Django==5.1.1
+djangorestframework==3.15.2
+langchain==0.3.2
+langchain_community==0.3.1
+langchain_openai
+Requests==2.32.3
